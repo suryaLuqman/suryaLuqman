@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 ![cv header](https://user-images.githubusercontent.com/44109243/220110979-f4e27bd3-cd9a-4fad-9b92-b607d9906262.jpg)
 
-### Hi Guys, **Surya Luqman Fathulloh**.👋
+## Hi!, I'm Surya Luqman Fathulloh.👋
 - 🌱 I'm currently learning at [University Indraprasta University PGRI](https://unindra.ac.id).
 - 🏫 I majored in **informatics engineering** at **the faculty of engineering and computer science**.
-- 📫 if you are **interested with me**, follow my account [Linkedin](https://www.linkedin.com/in/surya-luqman-fathulloh/).
+
+### 📫 if you are **interested with me**, follow my account:
+   + [Linkedin](https://www.linkedin.com/in/surya-luqman-fathulloh/).
+   + [Instagram](https://www.instagram.com/surya_luqman/).
+   + [Facebook](https://www.facebook.com/surya.noepan). 
