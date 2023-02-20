@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🏫 I majored in **informatics engineering** at **the faculty of engineering and computer science**.
 
 ### 📫 if you are **interested with me**, follow my account:
-   + [Linkedin](https://www.linkedin.com/in/surya-luqman-fathulloh/).
+   + [LinkedIn](https://www.linkedin.com/in/surya-luqman-fathulloh/).
    + [Instagram](https://www.instagram.com/surya_luqman/).
    + [Facebook](https://www.facebook.com/surya.noepan). 
