@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cv header](https://user-images.githubusercontent.com/44109243/220110979-f4e27bd3-cd9a-4fad-9b92-b607d9906262.jpg)
+![cv_header-removebg-preview](https://user-images.githubusercontent.com/44109243/222514244-ab22add9-1690-4120-8204-5e18c02343fa.png)
 
 ## Hi!, I'm Surya Luqman Fathulloh.👋
 - 🌱 I'm currently learning at [University Indraprasta University PGRI](https://unindra.ac.id).
