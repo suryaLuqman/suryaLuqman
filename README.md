@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 
 ## Hi!, I'm Surya Luqman Fathulloh.👋
-- 🌱 I'm currently learning at [University Indraprasta University PGRI](https://unindra.ac.id).
-- 🏫 I majored in **informatics engineering** at **the faculty of engineering and computer science**.
+
 
 ### Github Statistic
 <p align="left">
