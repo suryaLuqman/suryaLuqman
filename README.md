@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cv header-removebg](https://github.com/suryaLuqman/suryaLuqman/assets/44109243/cd16ef2d-cf18-465f-aed7-b8f11460d5a2)
-
 
 
 ## Hi!, I'm Surya Luqman Fathulloh.👋
